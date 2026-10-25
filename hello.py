@@ -1,2 +1,2 @@
-print("Hello this is my first git project")
-print("version control using git and github")
+print("Hello from Jenkins")
+print("Continuous Integration Using Jenkins")
