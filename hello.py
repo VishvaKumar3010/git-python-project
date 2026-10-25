@@ -1,3 +1,2 @@
 print("Hello this is my first git project")
-print("Version Control using git and github")
-print("Developement Branch")
+print("version control using git and github")
